@@ -1,7 +1,0 @@
-
-
-consr Map = () => {
-
-
-    return
-}
